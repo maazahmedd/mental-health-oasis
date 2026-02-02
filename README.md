@@ -1,6 +1,6 @@
 # Mental Health Oasis <3
 
-### [Link to Site](https://neomort.github.io/Mental-Healh-Oasis/)
+### [Link to Site](https://maazahmedd.github.io/mental-health-oasis/)
 
 ## Description
 
